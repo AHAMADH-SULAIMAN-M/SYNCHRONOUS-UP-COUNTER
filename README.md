@@ -46,7 +46,8 @@ Developed by:AHAMADH SULAIMAN M RegisterNumber:212224230009
 **TIMING DIAGRAM FOR IP COUNTER**
 
 
-![Screenshot 2025-05-05 144212](https://github.com/user-attachments/assets/79f12b9c-bfb6-4933-90a4-4bbe0ac87fb4)
+![Screenshot 2025-05-05 145148](https://github.com/user-attachments/assets/5aeb479e-0542-4b58-ad1f-22f23a30bd71)
+
 
 
 **TRUTH TABLE**
