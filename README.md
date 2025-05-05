@@ -38,15 +38,19 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 Developed by:AHAMADH SULAIMAN M RegisterNumber:212224230009
 */
 
+
 **RTL LOGIC UP COUNTER**
 
 ![Screenshot 2025-05-05 143318](https://github.com/user-attachments/assets/5c82ff7d-e6a5-4cc9-a00b-98f42fe2413f)
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![Uploading Screenshot 2025-05-05 144212.png…]()
+
+![Screenshot 2025-05-05 144212](https://github.com/user-attachments/assets/79f12b9c-bfb6-4933-90a4-4bbe0ac87fb4)
 
 
 **TRUTH TABLE**
 
+
 **RESULTS**
+Thus, the 4-bit synchronous up counter is implemented successfully.
